@@ -6,7 +6,7 @@ class Ogre19 < Formula
   stable do
     url 'https://bitbucket.org/sinbad/ogre/get/v1-9-0.tar.gz'
     version '1.9.0'
-    sha1 'aa9b0c6d371802e0535515758e88c4893045cd5f'
+    sha1 '545f954b7869f3093f9d7d9ec63638a6aaa8eb4e'
 
     patch do
       url 'https://gist.githubusercontent.com/NikolausDemmel/2b11d1b49b35cd27a102/raw/3af6b11889a90d7e35bb90cdb34c46ea8334eaf3/fix-1.9.0-release.diff'
